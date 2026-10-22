@@ -1,0 +1,1171 @@
+{
+  "base": "http://localhost:4173",
+  "checkedAt": "2026-10-21T13:54:59.041Z",
+  "mode": "local",
+  "pages": [
+    {
+      "path": "/",
+      "agent": "Mozilla/5.0 PreviewCheck/1.0",
+      "pass": true,
+      "checks": [
+        {
+          "pass": true,
+          "message": "最终 HTTP 状态为 200"
+        },
+        {
+          "pass": true,
+          "message": "页面 Content-Type 为 text/html"
+        },
+        {
+          "pass": true,
+          "message": "页面最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "重定向未离开当前域名"
+        },
+        {
+          "pass": true,
+          "message": "原始 HTML 标题与配置一致"
+        },
+        {
+          "pass": true,
+          "message": "元信息没有重复标签"
+        },
+        {
+          "pass": true,
+          "message": "description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:secure_url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:width 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:height 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:alt 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:locale 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:card 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 标题一致"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 简介一致"
+        },
+        {
+          "pass": true,
+          "message": "og:type 为 article"
+        },
+        {
+          "pass": true,
+          "message": "Twitter 大图类型正确"
+        },
+        {
+          "pass": true,
+          "message": "canonical 与 og:url 指向当前部署文章地址"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "无旧项目标题、域名或示例占位符"
+        },
+        {
+          "pass": true,
+          "message": "没有意外的 noindex / 抓取限制"
+        },
+        {
+          "pass": true,
+          "message": "未发现常见挑战页面特征"
+        },
+        {
+          "pass": true,
+          "message": "各平台预览图片地址一致"
+        },
+        {
+          "pass": true,
+          "message": "预览图 HTTP 200"
+        },
+        {
+          "pass": true,
+          "message": "预览图最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "预览图 Content-Type 为 image/jpeg"
+        },
+        {
+          "pass": true,
+          "message": "预览图实际尺寸 1200×630"
+        },
+        {
+          "pass": true,
+          "message": "图片实际尺寸与元数据一致"
+        },
+        {
+          "pass": true,
+          "message": "JPEG 有完整结束标记"
+        },
+        {
+          "pass": true,
+          "message": "图片体积合理（1KB–500KB）"
+        }
+      ],
+      "redirects": [],
+      "finalUrl": "http://localhost:4173/",
+      "status": 200,
+      "image": {
+        "status": 200,
+        "url": "http://localhost:4173/og/article-preview.jpg",
+        "bytes": 91783,
+        "contentType": "image/jpeg",
+        "redirects": [],
+        "dimensions": {
+          "width": 1200,
+          "height": 630
+        }
+      }
+    },
+    {
+      "path": "/blockchain/3731109.html",
+      "agent": "Mozilla/5.0 PreviewCheck/1.0",
+      "pass": true,
+      "checks": [
+        {
+          "pass": true,
+          "message": "最终 HTTP 状态为 200"
+        },
+        {
+          "pass": true,
+          "message": "页面 Content-Type 为 text/html"
+        },
+        {
+          "pass": true,
+          "message": "页面最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "重定向未离开当前域名"
+        },
+        {
+          "pass": true,
+          "message": "原始 HTML 标题与配置一致"
+        },
+        {
+          "pass": true,
+          "message": "元信息没有重复标签"
+        },
+        {
+          "pass": true,
+          "message": "description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:secure_url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:width 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:height 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:alt 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:locale 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:card 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 标题一致"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 简介一致"
+        },
+        {
+          "pass": true,
+          "message": "og:type 为 article"
+        },
+        {
+          "pass": true,
+          "message": "Twitter 大图类型正确"
+        },
+        {
+          "pass": true,
+          "message": "canonical 与 og:url 指向当前部署文章地址"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "无旧项目标题、域名或示例占位符"
+        },
+        {
+          "pass": true,
+          "message": "没有意外的 noindex / 抓取限制"
+        },
+        {
+          "pass": true,
+          "message": "未发现常见挑战页面特征"
+        },
+        {
+          "pass": true,
+          "message": "各平台预览图片地址一致"
+        },
+        {
+          "pass": true,
+          "message": "预览图 HTTP 200"
+        },
+        {
+          "pass": true,
+          "message": "预览图最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "预览图 Content-Type 为 image/jpeg"
+        },
+        {
+          "pass": true,
+          "message": "预览图实际尺寸 1200×630"
+        },
+        {
+          "pass": true,
+          "message": "图片实际尺寸与元数据一致"
+        },
+        {
+          "pass": true,
+          "message": "JPEG 有完整结束标记"
+        },
+        {
+          "pass": true,
+          "message": "图片体积合理（1KB–500KB）"
+        }
+      ],
+      "redirects": [],
+      "finalUrl": "http://localhost:4173/blockchain/3731109.html",
+      "status": 200,
+      "image": {
+        "status": 200,
+        "url": "http://localhost:4173/og/article-preview.jpg",
+        "bytes": 91783,
+        "contentType": "image/jpeg",
+        "redirects": [],
+        "dimensions": {
+          "width": 1200,
+          "height": 630
+        }
+      }
+    },
+    {
+      "path": "/blockchain/3731109",
+      "agent": "Mozilla/5.0 PreviewCheck/1.0",
+      "pass": true,
+      "checks": [
+        {
+          "pass": true,
+          "message": "最终 HTTP 状态为 200"
+        },
+        {
+          "pass": true,
+          "message": "页面 Content-Type 为 text/html"
+        },
+        {
+          "pass": true,
+          "message": "页面最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "重定向未离开当前域名"
+        },
+        {
+          "pass": true,
+          "message": "原始 HTML 标题与配置一致"
+        },
+        {
+          "pass": true,
+          "message": "元信息没有重复标签"
+        },
+        {
+          "pass": true,
+          "message": "description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:secure_url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:width 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:height 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:alt 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:locale 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:card 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 标题一致"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 简介一致"
+        },
+        {
+          "pass": true,
+          "message": "og:type 为 article"
+        },
+        {
+          "pass": true,
+          "message": "Twitter 大图类型正确"
+        },
+        {
+          "pass": true,
+          "message": "canonical 与 og:url 指向当前部署文章地址"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "无旧项目标题、域名或示例占位符"
+        },
+        {
+          "pass": true,
+          "message": "没有意外的 noindex / 抓取限制"
+        },
+        {
+          "pass": true,
+          "message": "未发现常见挑战页面特征"
+        },
+        {
+          "pass": true,
+          "message": "各平台预览图片地址一致"
+        },
+        {
+          "pass": true,
+          "message": "预览图 HTTP 200"
+        },
+        {
+          "pass": true,
+          "message": "预览图最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "预览图 Content-Type 为 image/jpeg"
+        },
+        {
+          "pass": true,
+          "message": "预览图实际尺寸 1200×630"
+        },
+        {
+          "pass": true,
+          "message": "图片实际尺寸与元数据一致"
+        },
+        {
+          "pass": true,
+          "message": "JPEG 有完整结束标记"
+        },
+        {
+          "pass": true,
+          "message": "图片体积合理（1KB–500KB）"
+        }
+      ],
+      "redirects": [],
+      "finalUrl": "http://localhost:4173/blockchain/3731109",
+      "status": 200,
+      "image": {
+        "status": 200,
+        "url": "http://localhost:4173/og/article-preview.jpg",
+        "bytes": 91783,
+        "contentType": "image/jpeg",
+        "redirects": [],
+        "dimensions": {
+          "width": 1200,
+          "height": 630
+        }
+      }
+    },
+    {
+      "path": "/",
+      "agent": "TelegramBot",
+      "pass": true,
+      "checks": [
+        {
+          "pass": true,
+          "message": "最终 HTTP 状态为 200"
+        },
+        {
+          "pass": true,
+          "message": "页面 Content-Type 为 text/html"
+        },
+        {
+          "pass": true,
+          "message": "页面最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "重定向未离开当前域名"
+        },
+        {
+          "pass": true,
+          "message": "原始 HTML 标题与配置一致"
+        },
+        {
+          "pass": true,
+          "message": "元信息没有重复标签"
+        },
+        {
+          "pass": true,
+          "message": "description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:secure_url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:width 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:height 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:alt 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:locale 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:card 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 标题一致"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 简介一致"
+        },
+        {
+          "pass": true,
+          "message": "og:type 为 article"
+        },
+        {
+          "pass": true,
+          "message": "Twitter 大图类型正确"
+        },
+        {
+          "pass": true,
+          "message": "canonical 与 og:url 指向当前部署文章地址"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "无旧项目标题、域名或示例占位符"
+        },
+        {
+          "pass": true,
+          "message": "没有意外的 noindex / 抓取限制"
+        },
+        {
+          "pass": true,
+          "message": "未发现常见挑战页面特征"
+        },
+        {
+          "pass": true,
+          "message": "各平台预览图片地址一致"
+        },
+        {
+          "pass": true,
+          "message": "预览图 HTTP 200"
+        },
+        {
+          "pass": true,
+          "message": "预览图最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "预览图 Content-Type 为 image/jpeg"
+        },
+        {
+          "pass": true,
+          "message": "预览图实际尺寸 1200×630"
+        },
+        {
+          "pass": true,
+          "message": "图片实际尺寸与元数据一致"
+        },
+        {
+          "pass": true,
+          "message": "JPEG 有完整结束标记"
+        },
+        {
+          "pass": true,
+          "message": "图片体积合理（1KB–500KB）"
+        }
+      ],
+      "redirects": [],
+      "finalUrl": "http://localhost:4173/",
+      "status": 200,
+      "image": {
+        "status": 200,
+        "url": "http://localhost:4173/og/article-preview.jpg",
+        "bytes": 91783,
+        "contentType": "image/jpeg",
+        "redirects": [],
+        "dimensions": {
+          "width": 1200,
+          "height": 630
+        }
+      }
+    },
+    {
+      "path": "/blockchain/3731109.html",
+      "agent": "TelegramBot",
+      "pass": true,
+      "checks": [
+        {
+          "pass": true,
+          "message": "最终 HTTP 状态为 200"
+        },
+        {
+          "pass": true,
+          "message": "页面 Content-Type 为 text/html"
+        },
+        {
+          "pass": true,
+          "message": "页面最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "重定向未离开当前域名"
+        },
+        {
+          "pass": true,
+          "message": "原始 HTML 标题与配置一致"
+        },
+        {
+          "pass": true,
+          "message": "元信息没有重复标签"
+        },
+        {
+          "pass": true,
+          "message": "description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:secure_url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:width 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:height 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:alt 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:locale 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:card 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 标题一致"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 简介一致"
+        },
+        {
+          "pass": true,
+          "message": "og:type 为 article"
+        },
+        {
+          "pass": true,
+          "message": "Twitter 大图类型正确"
+        },
+        {
+          "pass": true,
+          "message": "canonical 与 og:url 指向当前部署文章地址"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "无旧项目标题、域名或示例占位符"
+        },
+        {
+          "pass": true,
+          "message": "没有意外的 noindex / 抓取限制"
+        },
+        {
+          "pass": true,
+          "message": "未发现常见挑战页面特征"
+        },
+        {
+          "pass": true,
+          "message": "各平台预览图片地址一致"
+        },
+        {
+          "pass": true,
+          "message": "预览图 HTTP 200"
+        },
+        {
+          "pass": true,
+          "message": "预览图最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "预览图 Content-Type 为 image/jpeg"
+        },
+        {
+          "pass": true,
+          "message": "预览图实际尺寸 1200×630"
+        },
+        {
+          "pass": true,
+          "message": "图片实际尺寸与元数据一致"
+        },
+        {
+          "pass": true,
+          "message": "JPEG 有完整结束标记"
+        },
+        {
+          "pass": true,
+          "message": "图片体积合理（1KB–500KB）"
+        }
+      ],
+      "redirects": [],
+      "finalUrl": "http://localhost:4173/blockchain/3731109.html",
+      "status": 200,
+      "image": {
+        "status": 200,
+        "url": "http://localhost:4173/og/article-preview.jpg",
+        "bytes": 91783,
+        "contentType": "image/jpeg",
+        "redirects": [],
+        "dimensions": {
+          "width": 1200,
+          "height": 630
+        }
+      }
+    },
+    {
+      "path": "/blockchain/3731109",
+      "agent": "TelegramBot",
+      "pass": true,
+      "checks": [
+        {
+          "pass": true,
+          "message": "最终 HTTP 状态为 200"
+        },
+        {
+          "pass": true,
+          "message": "页面 Content-Type 为 text/html"
+        },
+        {
+          "pass": true,
+          "message": "页面最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "重定向未离开当前域名"
+        },
+        {
+          "pass": true,
+          "message": "原始 HTML 标题与配置一致"
+        },
+        {
+          "pass": true,
+          "message": "元信息没有重复标签"
+        },
+        {
+          "pass": true,
+          "message": "description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:secure_url 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:type 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:width 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:height 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:image:alt 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "og:locale 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:card 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:title 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:description 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "twitter:image 存在且非空"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 标题一致"
+        },
+        {
+          "pass": true,
+          "message": "OG / Twitter 简介一致"
+        },
+        {
+          "pass": true,
+          "message": "og:type 为 article"
+        },
+        {
+          "pass": true,
+          "message": "Twitter 大图类型正确"
+        },
+        {
+          "pass": true,
+          "message": "canonical 与 og:url 指向当前部署文章地址"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/blockchain/3731109"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "元信息 URL 属于当前域名：http://localhost:4173/og/article-preview.jpg"
+        },
+        {
+          "pass": true,
+          "message": "无旧项目标题、域名或示例占位符"
+        },
+        {
+          "pass": true,
+          "message": "没有意外的 noindex / 抓取限制"
+        },
+        {
+          "pass": true,
+          "message": "未发现常见挑战页面特征"
+        },
+        {
+          "pass": true,
+          "message": "各平台预览图片地址一致"
+        },
+        {
+          "pass": true,
+          "message": "预览图 HTTP 200"
+        },
+        {
+          "pass": true,
+          "message": "预览图最终域名正确"
+        },
+        {
+          "pass": true,
+          "message": "预览图 Content-Type 为 image/jpeg"
+        },
+        {
+          "pass": true,
+          "message": "预览图实际尺寸 1200×630"
+        },
+        {
+          "pass": true,
+          "message": "图片实际尺寸与元数据一致"
+        },
+        {
+          "pass": true,
+          "message": "JPEG 有完整结束标记"
+        },
+        {
+          "pass": true,
+          "message": "图片体积合理（1KB–500KB）"
+        }
+      ],
+      "redirects": [],
+      "finalUrl": "http://localhost:4173/blockchain/3731109",
+      "status": 200,
+      "image": {
+        "status": 200,
+        "url": "http://localhost:4173/og/article-preview.jpg",
+        "bytes": 91783,
+        "contentType": "image/jpeg",
+        "redirects": [],
+        "dimensions": {
+          "width": 1200,
+          "height": 630
+        }
+      }
+    }
+  ],
+  "platformTests": "NOT_RUN — 模拟请求不代表真实平台抓取成功",
+  "pass": true,
+  "robots": {
+    "status": 200,
+    "text": "User-agent: *\nAllow: /\nSitemap: http://localhost:4173/sitemap.xml\n"
+  }
+}

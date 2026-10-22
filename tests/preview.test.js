@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs/promises';
+import {resolveOrigin,root} from '../scripts/build.js';
+import {parseHead,jpegSize} from '../scripts/check-preview.js';
+test('正式构建拒绝缺失域名、本地地址、路径、示例域名',()=>{for(const siteUrl of ['', 'http://localhost:4173','https://localhost','https://example.com','https://site.test/path','https://name:pass@site.test','https://site.test?x=1'])assert.throws(()=>resolveOrigin({siteUrl},{}))});
+test('SITE_URL 覆盖 CF_PAGES_URL，CF_PAGES_URL 优于配置',()=>{assert.equal(resolveOrigin({siteUrl:'https://config.test'},{SITE_URL:'https://custom.test/',CF_PAGES_URL:'https://preview.pages.dev'}),'https://custom.test');assert.equal(resolveOrigin({siteUrl:''},{CF_PAGES_URL:'https://preview.pages.dev'}),'https://preview.pages.dev')});
+test('本地开发可运行且不会改变生产校验',()=>{assert.equal(resolveOrigin({},{},{dev:true,port:4173}),'http://localhost:4173');assert.throws(()=>resolveOrigin({},{}))});
+test('预览检测只读原始 head，拒绝依赖正文中的伪标签',()=>{const r=parseHead('<head><title>A &amp; B</title><meta content="图片" property="og:image"><meta property="og:image" content="重复"><link href="https://s.test/" rel="canonical"></head><body><meta property="og:title" content="fake"></body>');assert.equal(r.title,'A & B');assert.equal(r.metas['og:title'],undefined);assert.deepEqual(r.duplicates,['og:image'])});
+test('OG 预览采用用户提供的 BullGo 原图，不沿用旧 GameFi 图',async()=>{const c=JSON.parse(await fs.readFile(root+'/site.config.json','utf8'));assert.equal(c.ogImage,'/assets/images/bullgo-hero-1280x720.png');assert.equal(c.ogImageWidth,1280);assert.equal(c.ogImageHeight,720);assert.throws(()=>jpegSize(Buffer.from('<html>not a JPEG</html>')))});
+test('推荐标题、链接、图片没有重复占位',async()=>{const rows=JSON.parse(await fs.readFile(root+'/data/related.json','utf8'));assert.equal(rows.length,12);for(const field of ['title','href','image'])assert.equal(new Set(rows.map(x=>x[field])).size,12);assert.ok(rows.every(x=>new URL(x.href).hostname==='www.jinse2.com'))});

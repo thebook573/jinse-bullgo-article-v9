@@ -1,0 +1,308 @@
+[
+  {
+    "width": 1758,
+    "height": 894,
+    "bbox": {
+      ".top-note": {
+        "x": 0,
+        "y": 0,
+        "width": 1758,
+        "height": 34
+      },
+      ".nav-row": {
+        "x": 229,
+        "y": 34,
+        "width": 1300,
+        "height": 58
+      },
+      ".brand": {
+        "x": 229,
+        "y": 51,
+        "width": 188,
+        "height": 24
+      },
+      ".desktop-nav": {
+        "x": 417,
+        "y": 34,
+        "width": 662,
+        "height": 58
+      },
+      ".search-form": {
+        "x": 1103,
+        "y": 48,
+        "width": 232,
+        "height": 30
+      },
+      ".header-user-button": {
+        "x": 1415,
+        "y": 46,
+        "width": 34,
+        "height": 34
+      },
+      ".floating-tools": {
+        "x": 1680,
+        "y": 266,
+        "width": 50,
+        "height": 302
+      },
+      "h1": {
+        "x": 229,
+        "y": 126,
+        "width": 780,
+        "height": 45
+      },
+      ".sidebar": {
+        "x": 1074,
+        "y": 126,
+        "width": 370,
+        "height": 2433
+      },
+      ".article-figure img": {
+        "x": 319,
+        "y": 271,
+        "width": 600,
+        "height": 322
+      }
+    },
+    "metrics": {
+      "docWidth": 1758,
+      "viewWidth": 1758,
+      "visibleNote": "block",
+      "navWeight": "500",
+      "canHover": true
+    },
+    "hover": {
+      "bg": "rgb(255, 172, 1)",
+      "color": "rgb(255, 255, 255)"
+    },
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "bbox": {
+      ".top-note": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 34
+      },
+      ".nav-row": {
+        "x": 70,
+        "y": 34,
+        "width": 1300,
+        "height": 58
+      },
+      ".brand": {
+        "x": 70,
+        "y": 51,
+        "width": 188,
+        "height": 24
+      },
+      ".desktop-nav": {
+        "x": 258,
+        "y": 34,
+        "width": 662,
+        "height": 58
+      },
+      ".search-form": {
+        "x": 944,
+        "y": 48,
+        "width": 232,
+        "height": 30
+      },
+      ".header-user-button": {
+        "x": 1256,
+        "y": 46,
+        "width": 34,
+        "height": 34
+      },
+      ".floating-tools": {
+        "x": 1362,
+        "y": 269,
+        "width": 50,
+        "height": 302
+      },
+      "h1": {
+        "x": 70,
+        "y": 126,
+        "width": 780,
+        "height": 45
+      },
+      ".sidebar": {
+        "x": 915,
+        "y": 126,
+        "width": 370,
+        "height": 2433
+      },
+      ".article-figure img": {
+        "x": 160,
+        "y": 271,
+        "width": 600,
+        "height": 322
+      }
+    },
+    "metrics": {
+      "docWidth": 1440,
+      "viewWidth": 1440,
+      "visibleNote": "block",
+      "navWeight": "500",
+      "canHover": true
+    },
+    "hover": {
+      "bg": "rgb(255, 172, 1)",
+      "color": "rgb(255, 255, 255)"
+    },
+    "errors": []
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "bbox": {
+      ".top-note": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".nav-row": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 58
+      },
+      ".brand": {
+        "x": 15,
+        "y": 18,
+        "width": 105,
+        "height": 23
+      },
+      ".desktop-nav": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".search-form": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".header-user-button": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".floating-tools": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "h1": {
+        "x": 15,
+        "y": 62,
+        "width": 360,
+        "height": 31
+      },
+      ".sidebar": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".article-figure img": {
+        "x": 15,
+        "y": 177,
+        "width": 360,
+        "height": 193
+      }
+    },
+    "metrics": {
+      "docWidth": 390,
+      "viewWidth": 390,
+      "visibleNote": "none",
+      "navWeight": "600",
+      "canHover": true
+    },
+    "hover": null,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "height": 700,
+    "bbox": {
+      ".top-note": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".nav-row": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 58
+      },
+      ".brand": {
+        "x": 12,
+        "y": 21,
+        "width": 92,
+        "height": 17
+      },
+      ".desktop-nav": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".search-form": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".header-user-button": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".floating-tools": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "h1": {
+        "x": 13,
+        "y": 62,
+        "width": 294,
+        "height": 29
+      },
+      ".sidebar": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      ".article-figure img": {
+        "x": 13,
+        "y": 175,
+        "width": 294,
+        "height": 158
+      }
+    },
+    "metrics": {
+      "docWidth": 320,
+      "viewWidth": 320,
+      "visibleNote": "none",
+      "navWeight": "600",
+      "canHover": true
+    },
+    "hover": null,
+    "errors": []
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "action": "login",
+    "title": "登录说明",
+    "link": "https://www.jinse2.com/"
+  },
+  {
+    "action": "report",
+    "title": "内容与报道",
+    "link": "https://www.jinse2.com/blockchain/3731109.html"
+  },
+  {
+    "action": "app",
+    "title": "金色财经官方下载",
+    "link": "https://app.jinse2.com"
+  },
+  {
+    "action": "feedback",
+    "title": "意见反馈",
+    "link": "https://www.jinse2.com/more/about"
+  },
+  {
+    "action": "community",
+    "title": "加入社群",
+    "link": "https://www.jinse2.com/"
+  }
+]

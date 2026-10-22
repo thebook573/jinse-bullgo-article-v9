@@ -1,0 +1,20 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> jinse-article-static@1.0.0 test
+> node --test tests/*.test.js
+
+✔ 正式构建生成两个完整入口，元信息静态注入，所有本地资源存在 (975.674676ms)
+✔ 正式构建拒绝缺失域名、本地地址、路径、示例域名 (1.37256ms)
+✔ SITE_URL 覆盖 CF_PAGES_URL，CF_PAGES_URL 优于配置 (0.32278ms)
+✔ 本地开发可运行且不会改变生产校验 (0.165442ms)
+✔ 预览检测只读原始 head，拒绝依赖正文中的伪标签 (1.724679ms)
+✔ 预览 JPEG 尺寸和结束标记正确，HTML伪图片会被拒绝 (52.261157ms)
+✔ 推荐标题、链接、图片没有重复占位 (11.598132ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1854.056352

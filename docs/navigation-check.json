@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-10-21T14:01:43.115Z",
+  "results": [
+    {
+      "input": "https://www.jinse2.com/",
+      "final": "https://www.jinse2.com/",
+      "title": "金色财经_在这里，读懂区块链"
+    },
+    {
+      "input": "https://www.jinse2.com/lives",
+      "final": "https://www.jinse2.com/lives",
+      "title": "区块链最新消息_金色财经快讯"
+    },
+    {
+      "input": "https://www.jinse2.com/channel/nft",
+      "final": "https://www.jinse2.com/channel/nft",
+      "title": "NFT数字藏品_金色财经NFT"
+    },
+    {
+      "input": "https://www.jinse2.com/dissertation",
+      "final": "https://www.jinse2.com/dissertation",
+      "title": "深度解析区块链技术_金色财经专题"
+    },
+    {
+      "input": "https://www.jinse2.com/columns",
+      "final": "https://www.jinse2.com/columns",
+      "title": "区块链行业KOL_金色财经专栏"
+    },
+    {
+      "input": "https://www.jinse2.com/activity",
+      "final": "https://www.jinse2.com/activity",
+      "title": "金色财经活动"
+    },
+    {
+      "input": "https://www.jinse2.com/member/1193285",
+      "final": "https://www.jinse2.com/member/1193285",
+      "title": "【链捕手ChainCatcher】_【链捕手ChainCatcher】最新消息_【链捕手ChainCatcher】相关新闻"
+    }
+  ]
+}

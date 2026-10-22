@@ -1,0 +1,98 @@
+
+> jinse-article-static@1.2.0 test
+> node --test tests/*.test.js
+
+TAP version 13
+# Subtest: 正式构建生成两个完整入口，元信息静态注入，所有本地资源存在
+ok 1 - 正式构建生成两个完整入口，元信息静态注入，所有本地资源存在
+  ---
+  duration_ms: 148.243937
+  type: 'test'
+  ...
+# Subtest: V3 双入口均有金色热搜弹层、可关闭按钮及原站导航
+ok 2 - V3 双入口均有金色热搜弹层、可关闭按钮及原站导航
+  ---
+  duration_ms: 5.931791
+  type: 'test'
+  ...
+# Subtest: V3 JS 监听搜索打开/关闭和热门词，且更新的官方热文不会改动搜索按钮文案
+ok 3 - V3 JS 监听搜索打开/关闭和热门词，且更新的官方热文不会改动搜索按钮文案
+  ---
+  duration_ms: 1.928203
+  type: 'test'
+  ...
+# Subtest: V3 CSS 包含 APP 二维码悬停、侧边导航高亮、搜索遮罩及移动适配
+ok 4 - V3 CSS 包含 APP 二维码悬停、侧边导航高亮、搜索遮罩及移动适配
+  ---
+  duration_ms: 2.435196
+  type: 'test'
+  ...
+# Subtest: 原站 24 小时热文 SSR 解析标题、链接、缩略图并去重
+ok 5 - 原站 24 小时热文 SSR 解析标题、链接、缩略图并去重
+  ---
+  duration_ms: 3.745349
+  type: 'test'
+  ...
+# Subtest: 数据缺失时不伪造实时热文
+ok 6 - 数据缺失时不伪造实时热文
+  ---
+  duration_ms: 0.582958
+  type: 'test'
+  ...
+# Subtest: 云函数通过源站抓取并返回可缓存 JSON
+ok 7 - 云函数通过源站抓取并返回可缓存 JSON
+  ---
+  duration_ms: 22.892488
+  type: 'test'
+  ...
+# Subtest: 正式构建拒绝缺失域名、本地地址、路径、示例域名
+ok 8 - 正式构建拒绝缺失域名、本地地址、路径、示例域名
+  ---
+  duration_ms: 1.093736
+  type: 'test'
+  ...
+# Subtest: SITE_URL 覆盖 CF_PAGES_URL，CF_PAGES_URL 优于配置
+ok 9 - SITE_URL 覆盖 CF_PAGES_URL，CF_PAGES_URL 优于配置
+  ---
+  duration_ms: 0.427765
+  type: 'test'
+  ...
+# Subtest: 本地开发可运行且不会改变生产校验
+ok 10 - 本地开发可运行且不会改变生产校验
+  ---
+  duration_ms: 0.142094
+  type: 'test'
+  ...
+# Subtest: 预览检测只读原始 head，拒绝依赖正文中的伪标签
+ok 11 - 预览检测只读原始 head，拒绝依赖正文中的伪标签
+  ---
+  duration_ms: 1.234609
+  type: 'test'
+  ...
+# Subtest: OG 预览使用原站图片 URL，非本地合成图
+ok 12 - OG 预览使用原站图片 URL，非本地合成图
+  ---
+  duration_ms: 5.367682
+  type: 'test'
+  ...
+# Subtest: 推荐标题、链接、图片没有重复占位
+ok 13 - 推荐标题、链接、图片没有重复占位
+  ---
+  duration_ms: 0.917291
+  type: 'test'
+  ...
+# Subtest: 可直接预览的入口已交付，且不包含任何模板占位符
+ok 14 - 可直接预览的入口已交付，且不包含任何模板占位符
+  ---
+  duration_ms: 5.263465
+  type: 'test'
+  ...
+1..14
+# tests 14
+# suites 0
+# pass 14
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 214.268595

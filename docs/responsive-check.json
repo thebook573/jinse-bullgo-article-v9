@@ -1,0 +1,106 @@
+{
+  "method": "同源 iframe CSS viewport，隐藏滚动条；非真实移动设备或移动 User-Agent",
+  "checkedAt": "2026-10-21T13:56:04.773Z",
+  "matrix": [
+    {
+      "size": "1920x1080",
+      "actionBar": "sticky",
+      "bodyFont": "18px",
+      "brokenImages": [],
+      "clientWidth": 1920,
+      "h1Font": "32px",
+      "overflow": false,
+      "scrollWidth": 1920
+    },
+    {
+      "size": "1440x900",
+      "actionBar": "sticky",
+      "bodyFont": "18px",
+      "brokenImages": [],
+      "clientWidth": 1440,
+      "h1Font": "32px",
+      "overflow": false,
+      "scrollWidth": 1440
+    },
+    {
+      "size": "1366x768",
+      "actionBar": "sticky",
+      "bodyFont": "18px",
+      "brokenImages": [],
+      "clientWidth": 1366,
+      "h1Font": "32px",
+      "overflow": false,
+      "scrollWidth": 1366
+    },
+    {
+      "size": "1280x800",
+      "actionBar": "sticky",
+      "bodyFont": "18px",
+      "brokenImages": [],
+      "clientWidth": 1280,
+      "h1Font": "32px",
+      "overflow": false,
+      "scrollWidth": 1280
+    },
+    {
+      "size": "393x852",
+      "actionBar": "fixed",
+      "bodyFont": "18.864px",
+      "brokenImages": [],
+      "clientWidth": 393,
+      "h1Font": "22.008px",
+      "overflow": false,
+      "scrollWidth": 393
+    },
+    {
+      "size": "390x844",
+      "actionBar": "fixed",
+      "bodyFont": "18.72px",
+      "brokenImages": [],
+      "clientWidth": 390,
+      "h1Font": "21.84px",
+      "overflow": false,
+      "scrollWidth": 390
+    },
+    {
+      "size": "375x812",
+      "actionBar": "fixed",
+      "bodyFont": "18px",
+      "brokenImages": [],
+      "clientWidth": 375,
+      "h1Font": "21px",
+      "overflow": false,
+      "scrollWidth": 375
+    },
+    {
+      "size": "360x800",
+      "actionBar": "fixed",
+      "bodyFont": "17.28px",
+      "brokenImages": [],
+      "clientWidth": 360,
+      "h1Font": "20.16px",
+      "overflow": false,
+      "scrollWidth": 360
+    },
+    {
+      "size": "320x568",
+      "actionBar": "fixed",
+      "bodyFont": "16px",
+      "brokenImages": [],
+      "clientWidth": 320,
+      "h1Font": "20px",
+      "overflow": false,
+      "scrollWidth": 320
+    },
+    {
+      "size": "844x390",
+      "actionBar": "sticky",
+      "bodyFont": "18px",
+      "brokenImages": [],
+      "clientWidth": 844,
+      "h1Font": "32px",
+      "overflow": false,
+      "scrollWidth": 844
+    }
+  ]
+}

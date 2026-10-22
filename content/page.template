@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESCRIPTION}}">
+<meta property="og:url" content="{{CANONICAL}}">
+<meta property="og:site_name" content="{{SITE_NAME}}">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta property="og:image:secure_url" content="{{OG_IMAGE}}">
+<meta property="og:image:type" content="{{OG_IMAGE_TYPE}}">
+<meta property="og:image:width" content="{{OG_IMAGE_WIDTH}}">
+<meta property="og:image:height" content="{{OG_IMAGE_HEIGHT}}">
+<meta property="og:image:alt" content="{{TITLE}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{TITLE}}">
+<meta name="twitter:description" content="{{DESCRIPTION}}">
+<meta name="twitter:image" content="{{OG_IMAGE}}">
+<meta name="twitter:image:alt" content="{{TITLE}}">
+<link rel="canonical" href="{{CANONICAL}}">
+<link rel="icon" href="/assets/icons/favicon-v9.ico" sizes="any">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/responsive.css">
+<script src="/js/vendor/qrcode.js" defer></script>
+<script src="/js/main.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#article-body">跳到正文</a>
+<header class="site-header">
+ <div class="top-note"><div class="container top-note-inner"><span>免责声明：金色财经所有资讯仅代表作者个人观点，不构成任何投资理财建议。请确保访问网址为（jinse2.com）</span><button type="button" data-action="report" class="top-note-report" aria-label="内容举报">举报</button></div></div>
+ 
+ <div class="nav-row container">
+  <a class="brand" href="https://www.jinse2.com/" aria-label="金色财经官网"><picture><source media="(max-width:767px)" srcset="/assets/icons/mobile-logo.svg"><img src="/assets/images/b6900fe.png" width="340" height="64" alt="金色财经"></picture></a>
+  <nav class="desktop-nav" aria-label="主导航"><a href="https://www.jinse2.com/">首页</a><a href="https://www.jinse2.com/lives">7*24快讯</a><a href="https://www.jinse2.com/channel/nft">NFT</a><a href="https://www.jinse2.com/dissertation">专题</a><a href="https://www.jinse2.com/columns">专栏</a><a href="https://www.jinse2.com/activity">活动</a></nav>
+  <nav class="mobile-nav" aria-label="移动导航"><a href="https://www.jinse2.com/">资讯</a><a href="https://www.jinse2.com/lives">快讯</a><a href="https://www.jinse2.com/dissertation">专题</a><a href="https://www.jinse2.com/activity">活动</a><a href="https://www.jinse2.com/channel/nft">NFT</a></nav>
+  <div class="mobile-header-actions"><a class="mobile-search-button" href="/search.html" aria-label="搜索资讯"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.7" cy="10.7" r="7.5"/><path d="m16.3 16.3 5 5"/></svg></a><button type="button" class="mobile-menu-button" aria-label="打开导航菜单" aria-controls="mobile-drawer" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 5h20M2 12h20M2 19h20"/></svg></button></div>
+  <div class="nav-tools"><form class="search-form" role="search"><input type="search" name="q" placeholder="马斯克：SpaceX与特斯拉" readonly aria-haspopup="dialog" aria-controls="global-search" aria-label="搜索资讯" maxlength="80" autocomplete="off"><button type="submit" aria-label="搜索"><img src="/assets/images/76ed31d.png" width="69" height="30" alt="搜索"></button></form><div class="header-app-wrap"><a class="icon-button header-app-button" href="https://app.jinse2.com" target="_blank" rel="noopener noreferrer" aria-label="金色财经 APP 下载"><img src="/assets/icons/phone.png" alt="" width="18" height="18"></a><div class="header-app-popover"><img src="/assets/images/jinse_1663151055960502683_true.png" width="128" height="128" alt="金色财经 APP 二维码"><span>Android &amp; iPhone</span></div></div><button class="icon-button header-user-button" data-action="login" aria-label="金色财经账户入口"><svg class="user-glyph" viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5.5 19.5v-.7a6.5 6.5 0 0 1 13 0v.7"/></svg></button></div>
+ </div>
+</header>
+<div class="mobile-disclaimer"><span class="mobile-disclaimer-icon" aria-hidden="true">ⓘ</span><strong>免责声明:</strong> 内容不构成买卖依据，投资有风险，入市需谨慎！</div>
+<div id="mobile-drawer" class="mobile-drawer" hidden aria-hidden="true"><button class="mobile-drawer-backdrop" type="button" aria-label="关闭导航菜单"></button><nav class="mobile-drawer-panel" aria-label="手机导航"><a href="https://www.jinse2.com/">资讯</a><a href="https://www.jinse2.com/lives">快讯</a><a href="https://www.jinse2.com/dissertation">专题</a><a href="https://www.jinse2.com/channel/nft">NFT</a><a href="https://www.jinse2.com/activity">活动</a></nav></div>
+
+<main class="container layout">
+ <article class="main-column">
+  <h1>{{TITLE}}</h1>
+  <div class="author-row"><a class="author-avatar" href="{{AUTHOR_URL}}" target="_blank" rel="noopener noreferrer" aria-label="查看{{DISPLAY_AUTHOR_NAME}}主页"><img class="author-avatar-image" src="{{AUTHOR_AVATAR}}" width="38" height="38" alt="{{DISPLAY_AUTHOR_NAME}}头像"></a><div class="author-meta"><a class="author-name" href="{{AUTHOR_URL}}" target="_blank" rel="noopener noreferrer">{{DISPLAY_AUTHOR_NAME}}</a><div class="author-details"><time datetime="{{DISPLAY_PUBLISHED_ISO}}">{{DISPLAY_DATE}}</time><span class="read-count" aria-label="原站文章阅读量"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M2 12s4-6 10-6 10 6 10 6-4 6-10 6S2 12 2 12Z" stroke="currentColor" stroke-width="1.6" fill="none"/><circle cx="12" cy="12" r="2.7" stroke="currentColor" stroke-width="1.6" fill="none"/></svg><span>{{DISPLAY_VIEW_COUNT}}</span></span></div></div><div class="author-actions"><button type="button" class="author-share" data-action="native-share" aria-label="分享文章"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 4h7v7m0-7-11 11M19 14v5H5V6h5"/></svg></button><button type="button" class="author-bookmark" data-action="bookmark" aria-label="收藏文章"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h14v17l-7-5-7 5z"/></svg></button><button type="button" class="follow" data-action="follow" aria-label="关注作者">关注</button></div></div>
+  <div id="search-status" class="search-status" aria-live="polite" hidden></div>
+  <div class="article-body" id="article-body">{{ARTICLE}}</div>
+  <div class="tags" aria-label="文章标签"><span>BullGo</span><span>BNB Chain</span><span>Web3</span><span>GameFi</span></div>
+  <div class="encourage"><button class="like-button" data-action="like" aria-label="鼓励这篇文章（仅本机保存）" aria-pressed="false"><img src="/assets/icons/3a7ad73.svg" width="25" height="24" alt=""><span class="like-count">0</span></button><p>好文章，需要你的鼓励</p></div>
+  <section class="comments" id="comments" aria-labelledby="comment-heading"><div class="comment-heading"><h2 id="comment-heading">参与评论</h2></div><form id="comment-form"><label class="sr-only" for="comment-text">输入评论</label><textarea id="comment-text" placeholder="说说你的看法" maxlength="140" rows="2" required></textarea><div class="comment-submit"><output id="comment-count" for="comment-text">0/140</output><button type="submit" disabled>提交评论</button></div></form><div class="comment-list" aria-live="polite"><p class="empty-comments">暂无评论</p></div></section>
+  <div class="source-note"><p>文章来源：{{SOURCE_NAME}}</p><p class="muted">文中对项目机制及未来规划的描述属于项目介绍，不构成投资建议。</p></div>
+  <div class="action-bar" id="action-bar"><button data-action="bookmark" aria-pressed="false"><img src="/assets/icons/9f98408.svg" width="20" height="20" alt=""><span class="bookmark-label">收藏</span></button><button data-action="report" class="report-button">内容举报</button><button data-action="comment" class="mobile-comment">评论</button><div class="share-wrap"><button data-action="share" aria-expanded="false" aria-controls="share-menu">分享</button><div class="share-menu" id="share-menu" hidden><button data-action="copy">复制文章链接</button><button data-action="qr">二维码分享</button><a data-share="qq" href="https://connect.qq.com/widget/shareqq/index.html" target="_blank" rel="noopener noreferrer">QQ</a><a data-share="weibo" href="https://service.weibo.com/share/share.php" target="_blank" rel="noopener noreferrer">微博</a><button data-action="native-share">系统分享</button></div></div><div class="inline-social"><a data-share="qq" href="https://connect.qq.com/widget/shareqq/index.html" aria-label="分享到QQ" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/share-qq.svg" width="24" height="24" alt=""></a><a data-share="weibo" href="https://service.weibo.com/share/share.php" aria-label="分享到微博" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/share-weibo.svg" width="24" height="24" alt=""></a><button data-action="qr" aria-label="微信二维码分享"><img src="/assets/icons/share-wechat.svg" width="24" height="24" alt=""></button></div></div>
+  <section class="mobile-related" aria-labelledby="mobile-related-title"><h2 id="mobile-related-title">相关阅读</h2><ul class="mobile-related-list">{{MOBILE_RELATED}}</ul></section>
+  <nav class="breadcrumb" aria-label="当前位置"><a href="https://www.jinse2.com/">金色财经</a><span>›</span><span>{{SOURCE_NAME}}</span><span>›</span><span>{{TITLE}}</span></nav>
+ </article>
+ <aside class="sidebar" aria-labelledby="hot-title"><h2 id="hot-title" >24小时热文</h2><ul class="hot-list">{{RELATED}}</ul></aside>
+</main>
+<footer class="footer" id="footer"><div class="container"><div class="footer-top"><div class="partner-section"><h2>友情链接</h2><div class="partners">{{PARTNERS}}</div><h2>RSS</h2><div class="rss"><a href="https://www.coinmeta.info/" target="_blank" rel="noopener noreferrer">快讯</a><a href="https://www.coinmeta.info/" target="_blank" rel="noopener noreferrer">文章</a></div></div><div class="download-block"><h2>金色财经APP下载</h2><a href="https://app.jinse2.com" target="_blank" rel="noopener noreferrer"><img src="/assets/images/jinse_1663151055960502683_true.png" width="90" height="90" alt="金色财经官方下载二维码" loading="lazy"></a><p>iOS &amp; Android</p></div></div><div class="footer-bottom"><span>Copyright © 金色财经 版权所有</span><nav aria-label="网站信息"><a href="https://www.jinse2.com/more/about">关于我们</a><a href="https://www.jinse2.com/more/about">联系我们</a><a href="https://www.jinse2.com/more/copyright">版权声明</a><a href="https://h5.jinse2.com/terms.html">隐私协议</a></nav></div></div></footer>
+<button class="mobile-back-to-top" type="button" data-action="top" aria-label="返回页面顶部"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 14 12 7l7 7"/></svg><span>顶部</span></button>
+<div id="global-search" class="global-search" hidden aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="search-overlay-heading">
+<div class="global-search-backdrop" data-close-global-search></div>
+<div class="global-search-main">
+<header class="global-search-header"><a href="https://www.jinse2.com/" aria-label="金色财经首页"><img src="/assets/images/b6900fe.png" width="340" height="64" alt="金色财经"></a><button type="button" class="global-search-close" data-close-global-search aria-label="关闭搜索"><svg viewBox="0 0 28 28" width="30" height="30" aria-hidden="true"><path d="M3 3 25 25M25 3 3 25" stroke="currentColor" stroke-width="1.6" fill="none"/></svg></button></header>
+<form class="global-search-form" role="search" autocomplete="off"><input type="search" name="keyword" id="search-modal-input" placeholder="请输入关键词" maxlength="80" aria-label="关键词"><button type="submit" aria-label="开始搜索"><svg viewBox="0 0 32 32" width="34" height="34" aria-hidden="true"><circle cx="13.8" cy="13.8" r="9" fill="none" stroke="currentColor" stroke-width="1.9"/><path d="m21 21 7 7" fill="none" stroke="currentColor" stroke-width="1.9"/></svg></button></form>
+<section class="global-search-trending" aria-labelledby="search-overlay-heading"><h2 id="search-overlay-heading">金色热搜</h2><ol class="trending-list">
+<li><button type="button" data-hot-keyword="马斯克：SpaceX与特斯拉已成立委员会以讨论合并事宜"><span class="trending-num">1</span>马斯克：SpaceX与特斯拉已成立委员会以讨论合并事宜</button></li>
+<li><button type="button" data-hot-keyword="美CFTC就散户数字资产交易框架征求意见"><span class="trending-num">2</span>美CFTC就散户数字资产交易框架征求意见</button></li>
+<li><button type="button" data-hot-keyword="Strive SATS优先股完成6.3亿美元IPO登陆纳斯达克"><span class="trending-num">3</span>Strive SATS优先股完成6.3亿美元IPO登陆纳斯达克</button></li>
+<li><button type="button" data-hot-keyword="Solana最大网络升级Alpenglow今日上线"><span class="trending-num">4</span>Solana最大网络升级Alpenglow今日上线，目标150毫秒终局</button></li>
+<li><button type="button" data-hot-keyword="以太坊质押量升至4380万枚创历史新高"><span class="trending-num">5</span>以太坊质押量升至4380万枚创历史新高，占总供应量35.9%</button></li>
+<li><button type="button" data-hot-keyword="Arthur Hayes：不存在FLOP代币，谨防诈骗"><span class="trending-num">6</span>Arthur Hayes：不存在FLOP代币，谨防诈骗</button></li>
+<li><button type="button" data-hot-keyword="Anthropic上半年净亏807亿美元"><span class="trending-num">7</span>Anthropic上半年净亏807亿美元，IPO前警示数据中心阻力</button></li>
+<li><button type="button" data-hot-keyword="美国总统特朗普：大型数据中心必须自行发电"><span class="trending-num">8</span>美国总统特朗普：大型数据中心必须自行发电，并回馈社区</button></li>
+<li><button type="button" data-hot-keyword="JPMorgan首次将BTC加入其长期资本假设报告"><span class="trending-num">9</span>JPMorgan首次将BTC加入其长期资本假设报告</button></li>
+<li><button type="button" data-hot-keyword="贝莱德申请比特币管理保护ETF"><span class="trending-num">10</span>贝莱德申请比特币管理保护ETF，提供IBIT下行保护</button></li>
+</ol></section>
+
+</div></div>
+<div class="floating-tools" aria-label="页面工具"><a class="float-tool-link" href="https://www.jinse2.com/more/about" target="_blank" rel="noopener noreferrer" aria-label="寻求报道"><img src="/assets/icons/report.png" alt=""><span>寻求报道</span></a><button class="app-tool" data-action="app" aria-label="下载金色财经APP"><img src="/assets/icons/phone.png" alt=""><span class="app-hover-card"><img src="/assets/images/jinse_1663151055960502683_true.png" width="72" height="72" alt="金色财经APP二维码"><span class="app-card-label"><strong>金色财经APP</strong><em>iOS &amp; Android</em></span></span></button><a class="float-tool-link" href="https://t.me/jinse2017" target="_blank" rel="noopener noreferrer" aria-label="加入社群 Telegram"><img src="/assets/icons/telegram.png" alt=""><span>加入社群 Telegram</span></a><a class="float-tool-link" href="https://www.jinse2.com/more/about" target="_blank" rel="noopener noreferrer" aria-label="意见反馈"><img src="/assets/icons/feedback.png" alt=""><span>意见反馈</span></a><button data-action="top" aria-label="返回顶部"><img src="/assets/icons/up.png" alt=""><span>返回顶部</span></button><button data-action="bottom" aria-label="返回底部"><img src="/assets/icons/down.png" alt=""><span>返回底部</span></button></div>
+<dialog id="info-dialog" aria-labelledby="dialog-title"><div class="dialog-header"><h2 id="dialog-title"></h2><button data-action="close-dialog" aria-label="关闭弹窗">关闭</button></div><div id="dialog-body"></div></dialog>
+<div id="toast" role="status" aria-live="polite" hidden></div>
+</body></html>
