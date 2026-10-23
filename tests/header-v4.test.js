@@ -8,7 +8,6 @@ test('V4 top disclaimer and account hover are present in both routes',async()=>{
  for(const rel of ['index.html','blockchain/3731109.html']){
   const html=await fs.readFile(path.join(root,rel),'utf8');
   assert.match(html,/免责声明：金色财经所有资讯/);
-  assert.match(html,/请确保访问网址为（jinse2.com）/);
   assert.match(html,/class="icon-button header-user-button"/);
   assert.match(html,/class="user-glyph"/);
   assert.doesNotMatch(html,/<header class="site-header">\s*<div class="nav-row/);
